@@ -1,4 +1,4 @@
-# Milestome---2
+# Milestome-2
 
 Milestone 2 – Faculty of Engineering public website, content analysis & quality review
 
